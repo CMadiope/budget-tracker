@@ -9,10 +9,9 @@ const ExpenseItem = (props) => {
         <span className='badge badge-primary badge-pill mr-3'>
           R{props.cost}
         </span>
-        <TiDelete size='1.5em' />
+        <TiDelete size='1.5em'></TiDelete>
       </div>
     </li>
   );
 };
-
 export default ExpenseItem;

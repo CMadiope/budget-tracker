@@ -3,9 +3,9 @@ import ExpenseItem from "../components/ExpenseItem";
 
 const ExpenseList = () => {
   const expenses = [
-    { id: 12, name: "shopping", const: 500 },
-    { id: 13, name: "holiday", const: 10000 },
-    { id: 12, name: "car service", const: 3000 },
+    { id: 12, name: "shopping", cost: 500 },
+    { id: 13, name: "holiday", cost: 10000 },
+    { id: 12, name: "car service", cost: 3000 },
   ];
 
   return (
