@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CMadiope/budget-tracker/static/css/main.0e170fb8.css",
+    "main.js": "/CMadiope/budget-tracker/static/js/main.f301fe2e.js",
+    "static/js/787.3523ed75.chunk.js": "/CMadiope/budget-tracker/static/js/787.3523ed75.chunk.js",
+    "index.html": "/CMadiope/budget-tracker/index.html",
+    "main.0e170fb8.css.map": "/CMadiope/budget-tracker/static/css/main.0e170fb8.css.map",
+    "main.f301fe2e.js.map": "/CMadiope/budget-tracker/static/js/main.f301fe2e.js.map",
+    "787.3523ed75.chunk.js.map": "/CMadiope/budget-tracker/static/js/787.3523ed75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e170fb8.css",
+    "static/js/main.f301fe2e.js"
+  ]
+}
