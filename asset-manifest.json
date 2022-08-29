@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cmadiope/budget-tracker/static/css/main.0e170fb8.css",
-    "main.js": "/cmadiope/budget-tracker/static/js/main.fc0bb583.js",
-    "static/js/787.3523ed75.chunk.js": "/cmadiope/budget-tracker/static/js/787.3523ed75.chunk.js",
-    "index.html": "/cmadiope/budget-tracker/index.html",
-    "main.0e170fb8.css.map": "/cmadiope/budget-tracker/static/css/main.0e170fb8.css.map",
-    "main.fc0bb583.js.map": "/cmadiope/budget-tracker/static/js/main.fc0bb583.js.map",
-    "787.3523ed75.chunk.js.map": "/cmadiope/budget-tracker/static/js/787.3523ed75.chunk.js.map"
+    "main.css": "/budget-tracker/static/css/main.0e170fb8.css",
+    "main.js": "/budget-tracker/static/js/main.b5dfebb9.js",
+    "static/js/787.3523ed75.chunk.js": "/budget-tracker/static/js/787.3523ed75.chunk.js",
+    "index.html": "/budget-tracker/index.html",
+    "main.0e170fb8.css.map": "/budget-tracker/static/css/main.0e170fb8.css.map",
+    "main.b5dfebb9.js.map": "/budget-tracker/static/js/main.b5dfebb9.js.map",
+    "787.3523ed75.chunk.js.map": "/budget-tracker/static/js/787.3523ed75.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e170fb8.css",
-    "static/js/main.fc0bb583.js"
+    "static/js/main.b5dfebb9.js"
   ]
 }
